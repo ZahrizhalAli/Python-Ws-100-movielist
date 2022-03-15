@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../bs4-start/.idea/bs4-start.iml" filepath="$PROJECT_DIR$/../bs4-start/.idea/bs4-start.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mail-merge-project-start/.idea/mail-merge-project-start.iml" filepath="$PROJECT_DIR$/../mail-merge-project-start/.idea/mail-merge-project-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sp-Salaries-analysis/.idea/sp-Salaries-analysis.iml" filepath="$PROJECT_DIR$/../sp-Salaries-analysis/.idea/sp-Salaries-analysis.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ws-100-movies.iml" filepath="$PROJECT_DIR$/.idea/ws-100-movies.iml" />
     </modules>
   </component>

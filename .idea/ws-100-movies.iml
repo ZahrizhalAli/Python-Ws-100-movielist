@@ -8,5 +8,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="mail-merge-project-start" />
     <orderEntry type="module" module-name="bs4-start" />
+    <orderEntry type="module" module-name="sp-Salaries-analysis" />
   </component>
 </module>
